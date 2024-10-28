@@ -1,0 +1,3 @@
+[submodule "credcheck-anchor"]
+	path = credcheck-anchor
+	url = https://github.com/vicky4421/credcheck-anchor.git
